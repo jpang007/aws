@@ -1,0 +1,18 @@
+1   1.0 MiB 1stsource/images/1stsourceupdate401kphoto.png
+2   1.5 MiB pacu/images/couple-biking.jpg
+3   2.0 MiB v3/Avidia-Bank/images/avidiaBank_front.jpg
+4  12.8 MiB v3/Massachusetts Mutual Life Insurance Company/images/Cashback Rewards.jpeg
+5  10.2 MiB v3/Massachusetts Mutual Life Insurance Company/images/Deeper Dive.jpeg
+6  13.0 MiB v3/Massachusetts Mutual Life Insurance Company/images/Interest in Action.jpeg
+7   4.5 MiB v3/Massachusetts Mutual Life Insurance Company/images/Planning Ahead.jpeg
+8  14.8 MiB v3/Massachusetts Mutual Life Insurance Company/images/Quick Tip-Taxes.jpeg
+9   8.4 MiB v3/Massachusetts Mutual Life Insurance Company/images/Safe Harbor Explained.jpeg
+10   3.5 MiB v3/Massachusetts Mutual Life Insurance Company/images/What is a Liquid Asset?.jpeg
+11   1.4 MiB v3/discover/images/Discover HR.png
+12   3.4 MiB v3/discover/images/coin-jar.jpeg
+13   7.2 MiB v3/discover/images/family-saving-money.jpeg
+14  10.6 MiB v3/discover/images/woman-on-phone_coffee-shop.jpeg
+15   1.1 MiB v3/onewest-bank-cit-bank/images/2021checkingReward.png
+Total number of files: 15
+Total Image Size of uncompressed images: 95.4
+Approximate Size of compressing images (assuming 80% compression): 19.08
